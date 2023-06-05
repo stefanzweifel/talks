@@ -7,4 +7,4 @@ You can find a link of the recording and the source code below:
 - [GitHub repository with example](https://github.com/stefanzweifel/talk-intro-to-livewire)
 - [Meetup](https://www.meetup.com/de-DE/laravel-switzerland-meetup/events/288473420/)
 
-This folder contains an HTML export of the original [iA Presenter](https://ia.net/presenter) presentation I've used for the talk in October 2022.
+This folder contains a PDF export and an HTML export of the original [iA Presenter](https://ia.net/presenter) presentation I've used for the talk in October 2022.
